@@ -174,3 +174,78 @@ main{
     background-color: #C6E4D6;
     border-radius: 10px;
 }
+
+/* Recent News start */
+.news{
+    display:flex;
+    gap: 32px;
+    margin-top: 48px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    padding: 30px;
+}
+.Satellite{
+    border-radius: 30px;
+    margin-top: 22px;
+}
+.date-time{
+    display: flex;
+    gap: 12px;
+}
+.btn-read{
+    width: 139px;
+    height: 48px;
+    background-color: #006A50;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+/* Recent News end */
+/* Donate Today section start */
+.donet-section{
+    background-color: whitesmoke;
+    padding: 5px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+.donet{
+    text-align: center;
+    margin-top: 32px;
+    gap: 24px;
+}
+.btn-taka{
+    width: 240px;
+    height: 128px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 27px;
+    background-color: #C6E4D6;
+    border-radius: 20px;
+    border: none;
+    margin-top: 32px;
+    
+}
+.search{
+    width: 1032px;
+    height: 64px;
+    text-align: center;
+    margin-top: 32px;
+    margin-left: 27px;
+    border: none;
+    font-size: 18px;
+}
+.donet-btn{
+    margin-top: 32px;
+    width: 151px;
+    height: 56px;
+    background-color: #006A50;
+    border: none;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+.btn-donet{
+    text-align: center;
+}
+/* Donate Today section end */
