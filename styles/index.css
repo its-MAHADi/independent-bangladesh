@@ -135,3 +135,13 @@ main{
     border: none;
 }
 /* The Vision of Future done */
+/* Quote Section start */
+.Quote-Section{
+    background-image: url(../assets/quote-bg.png) ;
+    background-position-x: 24px;
+    background-repeat: no-repeat;
+    margin-top: 32px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    padding: 24px;
+}
