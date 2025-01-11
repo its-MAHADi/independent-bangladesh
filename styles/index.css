@@ -204,7 +204,7 @@ main{
 /* Donate Today section start */
 .donet-section{
     background-color: whitesmoke;
-    padding: 5px;
+    padding: 9px;
     margin-top: 80px;
     border-radius: 10px;
 }
@@ -249,3 +249,37 @@ main{
     text-align: center;
 }
 /* Donate Today section end */
+/* Subscribe Newsletter start */
+.Subscribe-section{
+    margin-top: 80px;
+    text-align: center;
+    gap: 24px;
+    background-color: #C6E4D6;
+    padding: 40px;
+    border-radius: 20px;
+}
+.letter{
+    font-weight: bold;
+}
+.subscribe{
+    width: 600px;
+    height: 55px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    font-size: 15px;
+}
+.subscribe-btn{
+    width: 150px;
+    height: 56px;
+    background-color: #006A50;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    border: none;
+}
+.adjust{
+    display: flex;
+    margin-left: 100px;
+}
+/* Subscribe Newsletter done */
